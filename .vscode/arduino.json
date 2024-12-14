@@ -1,0 +1,4 @@
+{
+    "sketch": "firmware/gyro_test/gyro_test.ino",
+    "board": "arduino:avr:uno"
+}
